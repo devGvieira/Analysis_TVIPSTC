@@ -1,4 +1,4 @@
-# Analysis of Stress Level Factors on Students and Prediction of Travel Insurance Purchase
+# Analysis of Stress Level Factors on Students and Prediction of Travel Insurance Purchases
 
 The present work was developed as an activity for a post-graduate class on artificial intelligence, it had two main objectives:
 
